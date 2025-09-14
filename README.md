@@ -7,7 +7,6 @@ Student @ Amrita College of Engineering and Technology
 
 
 ### I code in
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/><img height="50" width="50" src="https://img.icons8.com/fluent/48/000000/arduino.png"/>   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/spring-logo.png"/> 
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img height="50" width="50" src="https://img.icons8.com/fluent/48/000000/arduino.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/spring-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/typescript.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png" />
 
 
